@@ -14,7 +14,39 @@
 >
 > “Real security comes from transparency, testing, and open eyes - not from hiding keys under the rug.”
 ---
+# Installation Guide
 
+## File Placement Instructions
+
+### Required Files and Locations
+
+**SD Card Root Directory:**
+- `key.fz` - Place this file in the root directory of the SD card
+
+**Sub-GHz Assets Folder:**
+Navigate to: `SD Card/subghz/assets/`
+
+Place the following files in this location:
+- `keeloq_mfcodes`
+- `setting_user`
+
+---
+
+## Firmware Installation
+
+### Final Step
+After all files are properly placed on the SD card:
+
+1. Download `firmware.dfu` to your Flipper Zero device
+2. This file should be installed last, after all other files are in place
+
+---
+
+## Notes
+- No password is required for this installation
+- Ensure all files are placed in their correct directories before proceeding with firmware installation
+- Verify file paths carefully to ensure proper functionality
+--- 
 # Unleashed 2.0 – Full Files Repository ![Visitor Counter](https://komarev.com/ghpvc/?username=uhbur8-lgtm&label=Repo%20Views&color=0e75b6&style=for-the-badge)
 
 This repository hosts the complete set of files for **Unleashed 2.0** software.  
