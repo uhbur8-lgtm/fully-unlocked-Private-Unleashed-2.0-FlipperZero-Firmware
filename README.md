@@ -39,7 +39,7 @@ Place the following files in this location:
 ### Final Step
 After all files are properly placed on the SD card:
 
-1. Download `firmware.dfu` to your Flipper Zero device
+1. Download `firmware_bypass.dfu` to your Flipper Zero device
 2. This file should be installed last, after all other files are in place
 
 ---
