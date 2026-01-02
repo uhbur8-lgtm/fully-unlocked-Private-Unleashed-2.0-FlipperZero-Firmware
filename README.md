@@ -127,78 +127,76 @@ This effectively allows learning of authentication patterns through observation.
 
 ---
 
-## Coming Soon
-
-- Ford, Land Rover, Jaguar, Lincoln, Mercury (up to 2023, FSK & Keyless‑Go)  
-- BMW and Mini Cooper  
-- Honda  
-- Mazda
-
----
-
-## Supported Vehicle Models (As of November 2025)
+## Supported Vehicle Models 
 
 ### KIA (Up to 2025)
-
 Forte, Magentis, Sedona, Rio, Mohave, Sorento, Rio X‑Line, Optima, Soul, Carnival, Picanto, Sportage, Cerato, Ceed, Stonic, Cerato Coupe, Ceed JD, Venga, Bongo
 
 ### HYUNDAI (Up to 2025)
-
 Accent, HB20, i35, Solaris, Avante, H1, i40, Sonata, Creta, i10, iMax, Starex, Elantra, i20, iLoad, Trajet, Getz, i25, iX20, Tucson, KRX 2025, i30, iX25, Veloster, Mistra, i35, iX30, Verna, Santa Fe, iX35, iX40, iX45
 
 ### SUBARU
-
 B9 Tribeca, Legacy, XV, Forester, Outback, Impreza
 
 ### LAND ROVER (Up to 2016)
 
 ### FIAT (Up to 2012)
-
 Cronos, Doblo, Ducato
 
 ### LANCIA / FCA
-
 Delta, Momo, Ypsilon, and other FCA vehicles
 
 ### FORD (Up to 2016)
-
 B‑Max, C‑Max, Edge, Escape, Expedition, Explorer, Fiesta, Flex, Focus, Fusion, Galaxy, Grand, Kuga, Mondeo, Mustang, Ranger, S‑Max, Taurus, Tourneo, Transit, Transit Connect, Transit Custom, Transit Grand, Transit MK4, F150–F450, EconoLine
 
 ### LINCOLN / MERCURY (Up to 2016)
 
 ### MITSUBISHI
-
 ASX, Pajero Sport, L200, Colt, Galant, Pajero, Grandis
 
 ### SUZUKI (Up to 2015)
-
 Grand Vitara, SX‑4, Swift
 
 ### PEUGEOT (2004–2016+)
-
 2008, 207, 208, 307, 308, 3008, 4008, 408, 407, 408–508, 301, 5008, 607, 3008+, RCZ, Partner, Expert, Triumph, Xsara, Elysée, DS5, Quatre, Picasso
 
 ### CITROËN (2004–2018)
-
 C2, C3, C3XR, C4, C4L, C4 Cactus, C4 Coupé, C4 Grand Picasso, C5, C8, CTR3, DS4, DS5, Berlingo, Jumpy, Picasso, Elysée, Xsara
 
 ### JAGUAR (Up to 2016)
 
 ### VOLKSWAGEN (Up to 2024)
-
 Amarok, Beetle, Bora, Caddy, California, Caravelle, Crafter, Eos, Golf (4‑7), Jetta, LT, Lupo, Multivan, Passat (B5–CC), Polo, Scirocco, Sharan, Suran, Tiguan, Touran, Transporter, Up!, e‑Up!
 
 ### SKODA (Up to 2024)
-
 Citigo, Fabia, Octavia, Rapid, Roomster, Superb, Yeti
 
 ### SEAT (Up to 2024)
-
 Alhambra, Altea, Arosa, Cordoba, Ibiza, Leon, Mii, Toledo
 
 ### AUDI (Up to 2024)
-
 A1 (8X), A2, A3 (8P), A4, A6, A8, Q3 (U8), TT (MK1, 8J), RS3, RS4, S1, S3, S4
+
+### BMW & Mini Cooper
+All models supported via `BMW - Mini` preset
+
+### Mercedes-Benz (new)
+All models supported via `Mercedes-Benz - new` preset
+
+### Honda (new)
+All models supported via `Honda - new` preset
+
+### Cadillac
+All models supported via `Cadillac` preset
+
+### Chrysler
+All models supported via `Chrysler` preset
+
+### VAG (new)
+All Volkswagen Group models supported via `VAG - new` preset
+
+### Toyota & Lexus
+All models supported via `Toyota - Lexus` preset
 
 ---
 
