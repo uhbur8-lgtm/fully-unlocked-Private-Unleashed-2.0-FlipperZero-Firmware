@@ -178,25 +178,25 @@ Alhambra, Altea, Arosa, Cordoba, Ibiza, Leon, Mii, Toledo
 A1 (8X), A2, A3 (8P), A4, A6, A8, Q3 (U8), TT (MK1, 8J), RS3, RS4, S1, S3, S4
 
 ### BMW & Mini Cooper
-All models supported via `BMW - Mini` preset
+models supported via `BMW - Mini` preset
 
 ### Mercedes-Benz (new)
-All models supported via `Mercedes-Benz - new` preset
+models supported via `Mercedes-Benz - new` preset
 
 ### Honda (new)
-All models supported via `Honda - new` preset
+models supported via `Honda - new` preset
 
 ### Cadillac
-All models supported via `Cadillac` preset
+models supported via `Cadillac` preset
 
 ### Chrysler
-All models supported via `Chrysler` preset
+models supported via `Chrysler` preset
 
 ### VAG (new)
-All Volkswagen Group models supported via `VAG - new` preset
+Volkswagen Group models supported via `VAG - new` preset
 
 ### Toyota & Lexus
-All models supported via `Toyota - Lexus` preset
+models supported via `Toyota - Lexus` preset
 
 ---
 
