@@ -12,7 +12,7 @@
 >
 > Maintained to advance open knowledge, security testing transparency, and responsible research.
 >
-> “Real security comes from transparency, testing, and open eyes - not from hiding keys.fz under the rug.”
+> “Real security comes from transparency, testing, and open eyes - not from hiding keys under the rug.”
 ---
 
 # Unleashed 2.0 – Full Files Repository ![Visitor Counter](https://komarev.com/ghpvc/?username=uhbur8-lgtm&label=Repo%20Views&color=0e75b6&style=for-the-badge)
