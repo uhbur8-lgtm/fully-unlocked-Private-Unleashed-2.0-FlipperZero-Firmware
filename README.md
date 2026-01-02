@@ -10,10 +10,12 @@
 >
 > **If legality or intent is uncertain, you must not use, modify, or distribute this software.**  
 >
-> _Maintained to advance open knowledge, security testing transparency, and responsible research._
+> Maintained to advance open knowledge, security testing transparency, and responsible research.
+>
+> “Real security comes from transparency, testing, and open eyes - not from hiding keys under the rug.”
 ---
 
-# Unleashed 2.0 – Full Files Repository
+# Unleashed 2.0 – Full Files Repository ![Visitor Counter](https://komarev.com/ghpvc/?username=uhbur8-lgtm&label=Repo%20Views&color=0e75b6&style=for-the-badge)
 
 This repository hosts the complete set of files for **Unleashed 2.0** software.  
 The original upload was made on **December 31**, and due to unforeseen issues, this is the **re‑upload** of that release.
