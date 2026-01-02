@@ -16,6 +16,8 @@
 ---
 # Installation Guide
 
+ESNURE YOU DOWNLOAD UPDATE FROM FILE 1 FIRST.
+
 ## File Placement Instructions
 
 ### Required Files and Locations
